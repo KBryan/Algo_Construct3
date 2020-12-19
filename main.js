@@ -34,7 +34,7 @@ async function LoadExternalScript(runtime)
     let baseServerBetaNet = 'https://betanet-algorand.api.purestake.io/ps1';
     let baseServerMainNet = 'https://mainnet-algorand.api.purestake.io/ps1';
     let portPureStakePort = '';
-    var token         = { 'X-API-key' : ''};
+    var token         = { 'X-API-key' : 'YOUR_API_KEY_FOR_PURESTAKE'};
 
 
     // Algorand Sandbox
